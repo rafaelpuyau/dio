@@ -1,3 +1,3 @@
 # dio.me
 
-Projects learned on the dio.me plataform
+Projects I learned on the dio platform but with my special touch, just a small one,  to improve the final solution
